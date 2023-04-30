@@ -1,5 +1,16 @@
-name: Citybuild
+name: CityBuild
 version: '${project.version}'
-main: de.mineshine.citybuild.Citybuild
+main: de.mineshine.citybuild.CityBuild
 api-version: 1.19
 authors: [ Odenixx ]
+
+commands:
+  gamemode:
+    aliases: [gm]
+  repair:
+  feed:
+  anvil:
+  workbench:
+    aliases: [craft, crafting, craftingtable]
+  enchanter:
+  trash:
