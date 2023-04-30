@@ -1,0 +1,5 @@
+name: Citybuild
+version: '${project.version}'
+main: de.mineshine.citybuild.Citybuild
+api-version: 1.19
+authors: [ Odenixx ]
